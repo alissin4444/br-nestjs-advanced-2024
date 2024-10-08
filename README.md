@@ -19,5 +19,3 @@ Nele foi aprendido
 Não se esqueça de colocar a env do projeto
 
 rode npm run start:dev para startar a aplicação
-
-[Insomnia_2024-10-07.zip](https://github.com/user-attachments/files/17285332/Insomnia_2024-10-07.zip)
